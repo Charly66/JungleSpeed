@@ -1,0 +1,51 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 22 mars 2016, 16:51:31
+    Author     : admin
+*/
+
+.rose{
+    background-color: pink;
+}
+
+#menu > .item{
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+.ui.form .inline.fields .field{
+    padding-top: 14px;
+    padding-left: 7px;
+    padding-right: 7px;
+    
+}
+.img{
+    border-radius: 10px;
+}
+
+#pied{
+    background-color: #4c4f52;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    border-radius: 10px;
+}
+
+#loader{
+    position: fixed;
+    top: 50%;
+    left: 50%;
+}
+
+.inline .fields{
+    margin-bottom: 0px;
+}
+
+.bleu{
+    background-color: blue;
+}

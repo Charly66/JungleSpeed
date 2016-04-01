@@ -1,1 +1,1 @@
-Copyright 2016 - quicotte@gmail.com
+Copyright 2016 - charles.rey66@gmail.com
